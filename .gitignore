@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/ftxui_01/.vs/ftxui_01
+/ftxui_01/x64
+/.vs/ftxui_01
+/lib/Debug
+/x64
